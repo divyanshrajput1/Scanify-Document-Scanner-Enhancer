@@ -1,0 +1,5 @@
+/* Global reset — minimal, handled by App.css */
+body {
+  margin: 0;
+  padding: 0;
+}
